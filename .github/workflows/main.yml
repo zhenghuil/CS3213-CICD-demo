@@ -25,7 +25,7 @@ jobs:
   
    # Demo: This job checks whether all .py files in the root directory
    # begins with CS3213
-   checkprefix:
+  checkprefix:
      name: Check Prefix
      runs-on: ubuntu-latest
      steps:
